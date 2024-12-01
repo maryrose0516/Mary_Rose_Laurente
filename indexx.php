@@ -1,7 +1,7 @@
 <?php
 $servername = "localhost";
-$username = "root"; // default username for XAMPP
-$password = "Paet20Wz6m5"; // default password for XAMPP
+$username = "root"; 
+$password = "Paet20Wz6m5";
 $dbname = "medicines_db";
 
 // Create connection
